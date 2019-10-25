@@ -1,0 +1,52 @@
+{
+  "name": "strapi-provider-email-aws-sdk-ses",
+  "version": "1.0.0",
+  "description": "Amazon Simple Email Service provider based on AWS SDK for Strapi Email Plugin",
+  "homepage": "https://github.com/bashconsole",
+  "keywords": [
+    "email",
+    "strapi",
+    "aws",
+    "amazon",
+    "ses"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "aws-sdk": "^2.500.0",
+    "lodash": "^4.17.11"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "zubovsky@gmail.com",
+    "name": "Oleksii Zubovsky",
+    "url": "https://github.com/bashconsole"
+  },
+  "maintainers": [
+    {
+      "name": "Oleksii Zubovsky",
+      "email": "zubovsky@gmail.com",
+      "url": "https://github.com/bashconsole"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bashconsole/strapi-provider-email-aws-sdk-ses.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bashconsole/strapi-provider-email-aws-sdk-ses/issues"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  }
+
+}
