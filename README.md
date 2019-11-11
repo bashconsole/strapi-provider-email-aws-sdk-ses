@@ -2,13 +2,13 @@
 
 Amazon Simple Email Service provider based on AWS SDK for Strapi Email Plugin.
 
-
-
 ## Benefits
 
  - You can send emails from your Amazon Simple Email Service external provider
  - Uses official AWS SDK for JavaScript http://aws.amazon.com/javascript
 
+## Version
+ - Strapi 3.0.0-beta support
 
 ## Installation
 

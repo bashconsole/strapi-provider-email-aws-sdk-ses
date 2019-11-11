@@ -1,7 +1,7 @@
 {
   "name": "strapi-provider-email-aws-sdk-ses",
-  "version": "1.0.0",
-  "description": "Amazon Simple Email Service provider based on AWS SDK for Strapi Email Plugin",
+  "version": "3.0.0-beta.17.5",
+  "description": "Amazon SES provider for strapi email (uses AWS SDK)",
   "homepage": "https://github.com/bashconsole",
   "keywords": [
     "email",
